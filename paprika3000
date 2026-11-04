@@ -1,3 +1,3 @@
 print("hello world")
 list = [1,2,3,4, "te leszel az enyém"]
-print(list[1:2])
+print(list[1:2]+"gigány")
